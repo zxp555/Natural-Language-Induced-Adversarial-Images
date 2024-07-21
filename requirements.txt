@@ -1,0 +1,8 @@
+Pillow
+tqdm
+requests
+matplotlib
+transformers
+openai
+allpairspy
+scikit-optimize
