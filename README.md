@@ -1,5 +1,5 @@
 # Natural Language Induced Adversarial Images
-This is the official implentation repository for the paper <Natural Language Induced Adversarial Images> in ACM MM 2024.
+This is the official implentation repository for the paper "Natural Language Induced Adversarial Images" in ACM MM 2024.
 ## Installation
 - Create a conda virtual environment and activate it:
 ```
